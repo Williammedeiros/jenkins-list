@@ -1,4 +1,4 @@
-# django-todolist
+# django-todolist Python.
 
 Simple todolist write in django for general use and pipeline automation..
 
